@@ -1,0 +1,17 @@
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\bin\Debug\net6.0\myProject.context.deps.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\bin\Debug\net6.0\myProject.context.runtimeconfig.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\bin\Debug\net6.0\myProject.context.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\bin\Debug\net6.0\myProject.context.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\bin\Debug\net6.0\MyProject.Repositoties.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\bin\Debug\net6.0\MyProject.Repositoties.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\myProject.context.csproj.AssemblyReference.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\myProject.context.GeneratedMSBuildEditorConfig.editorconfig
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\myProject.context.AssemblyInfoInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\myProject.context.AssemblyInfo.cs
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\myProject.context.csproj.CoreCompileInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\myProject.context.csproj.CopyComplete
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\myProject.context.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\refint\myProject.context.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\myProject.context.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\myProject.context.genruntimeconfig.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\myProject.context\obj\Debug\net6.0\ref\myProject.context.dll

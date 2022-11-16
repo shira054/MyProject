@@ -1,0 +1,81 @@
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\appsettings.json
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.exe
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.deps.json
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.runtimeconfig.json
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.runtimeconfig.dev.json
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.pdb
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.AssemblyInfoInputs.cache
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.AssemblyInfo.cs
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.csproj.CoreCompileInputs.cache
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\staticwebassets\MyProject.WebApi.StaticWebAssets.Manifest.cache
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\scopedcss\bundle\MyProject.WebApi.styles.css
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.RazorTargetAssemblyInfo.cache
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.csproj.CopyComplete
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.dll
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\ref\MyProject.WebApi.dll
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.pdb
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.genruntimeconfig.cache
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Mock.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Repositoties.dll
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Mock.pdb
+E:\Full Stack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Repositoties.pdb
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.csproj.AssemblyReference.cache
+E:\Full Stack\MyProject\MyProject.WebApi\obj\Debug\net5.0\refint\MyProject.WebApi.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\appsettings.Development.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\appsettings.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.exe
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.deps.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.runtimeconfig.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.runtimeconfig.dev.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\ref\MyProject.WebApi.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.WebApi.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Mock.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Repositoties.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Mock.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\bin\Debug\net5.0\MyProject.Repositoties.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.csprojAssemblyReference.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.AssemblyInfoInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.AssemblyInfo.cs
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.csproj.CoreCompileInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.MvcApplicationPartsAssemblyInfo.cs
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.MvcApplicationPartsAssemblyInfo.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\staticwebassets\MyProject.WebApi.StaticWebAssets.Manifest.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\staticwebassets\MyProject.WebApi.StaticWebAssets.xml
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\scopedcss\bundle\MyProject.WebApi.styles.css
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.RazorTargetAssemblyInfo.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.csproj.CopyComplete
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\ref\MyProject.WebApi.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\בן אדיבה מזי\Fullstack\MyProject\MyProject.WebApi\obj\Debug\net5.0\MyProject.WebApi.genruntimeconfig.cache

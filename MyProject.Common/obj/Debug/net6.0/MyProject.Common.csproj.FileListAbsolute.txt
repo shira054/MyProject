@@ -1,0 +1,15 @@
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.exe
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.deps.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.runtimeconfig.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.AssemblyReference.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfoInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfo.cs
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.CoreCompileInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\refint\MyProject.Common.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.genruntimeconfig.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\קייקוב שירה\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\ref\MyProject.Common.dll
